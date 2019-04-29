@@ -1,24 +1,10 @@
-# README
+# Welcome to VegIron
+## The Home of Vegetables at Flatiron
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+How to use:
+- click on a pin for more info
+- add a place if you want
+- eat some things
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is built solely on Rails.

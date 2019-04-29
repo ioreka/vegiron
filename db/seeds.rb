@@ -1,7 +1,8 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+spot1 = Spot.create(name: "City Caphe")
+spot2 = Spot.create(name: "Mo Mo Street Food")
+spot3 = Spot.create(name: "Itsu")
+spot4 = Spot.create(name: "Wasabi")
+spot5 = Spot.create(name: "Pret")
+spot6 = Spot.create(name: "Eat")
+spot7 = Spot.create(name: "LEON")
+spot8 = Spot.create(name: "Whitecross Street Market")
